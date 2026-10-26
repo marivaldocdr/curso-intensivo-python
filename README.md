@@ -1,1 +1,3 @@
-# Curso Intensivo de Python (3° edição)\n\nAnotações e exercicios do livro de Eric Mathes.
+# Curso Intensivo de Python (3ª edição)
+
+Anotações e exercícios do livro de Eric Matthes.
